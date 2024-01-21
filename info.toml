@@ -843,7 +843,7 @@ path = "exercises/quiz3.rs"
 mode = "test"
 hint = """
 To find the best solution to this challenge you're going to need to think back
-to your knowledge of traits, specifically 'Trait Bound Syntax'
+to your knowledge of traits, specifically 'trait Bound Syntax'
 
 You may also need this: `use std::fmt::Display;`."""
 
@@ -1218,7 +1218,7 @@ so it can separate them.
 
 That's all the macro exercises we have in here, but it's barely even scratching
 the surface of what you can do with Rust's macros. For a more thorough
-introduction, you can have a read through 'The Little Book of Rust Macros':
+introduction, you can have a read through 'the Little Book of Rust Macros':
 https://veykril.github.io/tlborm/"""
 
 #  CLIPPY
